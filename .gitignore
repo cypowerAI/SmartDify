@@ -1,0 +1,15 @@
+# 依赖文件夹
+node_modules/
+.pnpm/
+.next/
+dist/
+build/
+
+# 环境变量
+.env
+.env.local
+.env.development
+
+# 日志
+logs/
+*.log
